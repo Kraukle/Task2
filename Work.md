@@ -9,3 +9,5 @@
 ## Изображение
 
 ## Сылки
+
+https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/
