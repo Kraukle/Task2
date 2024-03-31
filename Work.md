@@ -10,4 +10,7 @@
 
 ## Сылки
 
+Доп инфу найдёте по этим ссылкам
+
 https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/
+https://git.github.io/git-scm.com/
